@@ -76,17 +76,6 @@ python main.py
 
 ---
 
-## 🧪 Example Output
-
-| Stage | Example |
-|--------|----------|
-| Raw Image | ![Raw Image](data/raw/sample.jpg) |
-| Detection | ![Detected](results/detections/sample_detected.jpg) |
-| Segmentation | ![Segmented](results/reports/sample_segmented.jpg) |
-
-*(Replace sample images after running your pipeline)*
-
----
 
 ## 💡 How It Works (5W1H Breakdown)
 | Question | Answer |
@@ -122,3 +111,4 @@ Feel free to use and modify it for educational or research purposes.
 ---
 
 ⭐ If you like this project, **give it a star on GitHub!**
+
